@@ -1,4 +1,4 @@
-# Data Analytics Case Study For Remote
+# Data Analytics Case Study 
 
 This Project is an In-depth analysis of the  Remote's Case Study. The readme.md file is a detailed breakdown of the project.
 
