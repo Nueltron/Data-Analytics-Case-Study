@@ -1,6 +1,6 @@
-# Data Analyst Home Exercise
+# Data Analytics Case Study For Remote
 
-This Project is an In-depth analysis of the  Remote's Data Analyst Home Exerise. The readme.md file is a detailed breakdown of the project.
+This Project is an In-depth analysis of the  Remote's Case Study. The readme.md file is a detailed breakdown of the project.
 
 
 
